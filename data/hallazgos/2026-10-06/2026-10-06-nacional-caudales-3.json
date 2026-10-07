@@ -1,0 +1,11 @@
+{
+ "fecha": "2026-03-25",
+ "region": "Nacional",
+ "departamento": "Nacional",
+ "municipio": "",
+ "categoria": "desinformacion",
+ "badge": "b-ok",
+ "texto": "TRAMPA DE RECICLAJE DETECTADA: la cifra de \"más de 155.000 familias damnificadas, un 574 % más que el año anterior\" junto con \"más de 600 emergencias registradas en 328 municipios de 24 departamentos\" (Carlos Carrillo, director de la UNGRD, citado por El Tiempo el 25-mar-2026) corresponde al acumulado del 1 de enero al 25 de marzo de 2026 y es por LLUVIAS de la primera temporada, no por El Niño. La fuente NO atribuye el hecho al fenómeno de El Niño: al contrario, el artículo aclara que en ese momento no había fenómeno de El Niño activó y que el Ideam estimaba una probabilidad cercana al 68 % de que se consolidara en el segundo semestre de 2026. Por tanto, usar esta cifra como evidencia del episodio de El Niño de octubre de 2026 es una atribución indebida. Nota: no se pudo verificar de forma independiente que los agregadores de búsqueda esten devolviendo ya esta cifra mezclada con el contexto de octubre de 2026. La fuente NO atribuye el hecho a El Niño, la sequía ni el calor extremo; se registra tal cual. Pendiente de verificar: No encontre todavia un medio colombiano que este citando esta cifra AHORA como efecto de El Niño; se reporta como alerta preventiva para el tablero, no como desinformacion ya publicada. Riesgo adicional: la región más golpeada fue Córdoba por desbordamiento del río Sinu, es decir inundación, lo contrario de sequía.",
+ "fuente_nombre": "El Tiempo (citando a la UNGRD)",
+ "fuente_url": "https://www.eltiempo.com/vida/medio-ambiente/emergencia-nacional-por-lluvias-hay-mas-de-155-000-familias-damnificadas-un-574-mas-que-el-ano-anterior-3542816"
+}

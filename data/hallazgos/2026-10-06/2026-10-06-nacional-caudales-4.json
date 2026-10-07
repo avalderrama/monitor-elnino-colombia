@@ -1,0 +1,11 @@
+{
+ "fecha": "2026-10-02",
+ "region": "Nacional",
+ "departamento": "Nacional",
+ "municipio": "",
+ "categoria": "gobierno",
+ "badge": "b-ok",
+ "texto": "EJECUTADO: la Resolución CREG 101 120 de 2026 (expedida el 30-jul-2026) creó un programa transitorio de incentivos al uso eficiente de energía frente al Fenómeno de El Niño 2026-2027, con metas individuales por usuario calculadas sobre la mediana del consumo promedio diario de los últimos 12 meses. Según EPM, la fecha de inicio fijada por la CREG fue el 1-sep-2026: con las lecturas del 1 al 29-sep-2026 se generó factura con carácter pedagógico (solo ilustrativa) y a partir de las lecturas del 2-oct-2026 se aplican los cobros adicionales reales. Quien supere el 110% de su meta paga un cobro adicional solo sobre el excedente, con factores de 1,30 (estratos 1-3), 1,50 (estratos 4-6) y 1,70 (comercial/industrial regulado); entre 90% y 110% hay banda neutra. Quien consuma menos del 90% de su meta puede recibir un saldo a favor en factura, liquidado al cierre de cada periodo de liquidacion (no desde el 2-oct y en ningún caso en efectivo), y su monto depende de la bolsa recaudada por los excedentes. Vigencia inicial 6 meses, prorrogable por periodos de hasta 6 meses. Pendiente de verificar: Leer el texto oficial de la Resolución CREG 101 120 de 2026 en creg.gov.co para confirmar fecha exacta de expedición y numeracion. Verificar en la primera facturacion de octubre-noviembre si los sobrecostos se estan cobrando realmente y cuanto se ha recaudado/redistribuido.",
+ "fuente_nombre": "EPM (publicacion del programa de ahorro establecido por la CREG)",
+ "fuente_url": "https://www.epm.com.co/clientesyusuarios/resolucion-creg-101-120-2026/"
+}

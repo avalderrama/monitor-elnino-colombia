@@ -1,0 +1,18 @@
+# Datos descargados: cientos de megas por día, se regeneran con fetch_ideam.py.
+# Se versiona una sola corrida como muestra para poder correr el pipeline.
+data/raw/*
+!data/raw/2026-10-07/
+
+# Artefactos de trabajo
+__pycache__/
+*.pyc
+*.bin
+*.pdf
+chk_*.js
+v[0-9].js
+ideam_city_new.json
+hallazgos_docs.json
+apic_city_cache.json
+
+# Copias de trabajo del tablero (solo se versiona board/index.html)
+board_*.html

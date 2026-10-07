@@ -1,0 +1,11 @@
+{
+ "fecha": "2026-09-29",
+ "region": "Pacífico",
+ "departamento": "Valle del Cauca",
+ "municipio": "Cali",
+ "categoria": "gobierno",
+ "badge": "b-ok",
+ "texto": "MATIZ IMPORTANTE frente a lo ya publicado: según El País (datos de Emcali), el 29 de septiembre de 2026 el racionamiento programado se aplicaba solo en sectores de la Comuna 20 de Cali —barrios La Sultana, Pueblo Joven, Lleras Camargo y Brisas de Mayo—, en horario corrido de 6:00 a.m. a 6:00 a.m. del día siguiente. Caudales de ese martes: río Meléndez en 0,32 m³/s (frente a 0,48 m³/s el lunes y a un límite mínimo de alerta de 0,90 m³/s) y río Cali en 1,68 m³/s (frente a 1,96 m³/s el lunes), aún por encima del mínimo operativo de captación de 1,25 m³/s. Emcali advierte que las lluvias en las cuencas altas han sido insuficientes para una recuperación estructural y que las proyecciones prevén la extensión del fenómeno del Niño hasta febrero de 2027. Precisiones: la nota NO dice que Emcali haya descartado un racionamiento general de la ciudad —solo informa medidas sectorizadas y monitoreo permanente para ajustar horarios en la red del oeste y la ladera— y NO menciona el río Cauca ni su porcentaje de aporte al suministro de Cali, de modo que la compensación vía Cauca no está respaldada por esta fuente. La fuente sí atribuye el hecho a la temporada seca y al fenómeno del Niño. (El artículo indica además que fue elaborado con ayuda de inteligencia artificial y curado por un periodista.) Pendiente de verificar: Reconciliar con el hecho ya en el tablero ('racionamiento aplicado por Emcali el 22-sep'): el alcance real parece ser sectorizado en comunas 18 y 20, no citywide. Un reporte de El Tiempo menciona comunas 18 y 20 y atribuye la medida también a secuelas del terremoto, no solo a la sequía; verificar cual es el alcance vigente y si el terremoto es co-causa.",
+ "fuente_nombre": "El Pais (datos de Emcali)",
+ "fuente_url": "https://www.elpais.com.co/cali/los-caudales-de-los-rios-cali-y-melendez-se-mantienen-en-estado-critico-se-mantiene-racionamiento-de-agua-en-la-comuna-20-2935.html"
+}

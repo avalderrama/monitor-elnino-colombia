@@ -1,0 +1,11 @@
+{
+ "fecha": "2026-09-23",
+ "region": "Andina",
+ "departamento": "Boyacá",
+ "municipio": "Villa de Leyva",
+ "categoria": "desinformacion",
+ "badge": "b-ok",
+ "texto": "Colombiacheck rectificó su calificación (de Falso a Cuestionable) sobre la foto viral de una mujer esposada presentada como responsable del incendio forestal del cerro San Marcos, en Villa de Leyva. La Policía Nacional en Villa de Leyva confirmó que la captura sí ocurrió —el jueves 17-sep-2026 en la vereda El Roble, por una quema en predios privados, con posterior libertad ordenada por la Fiscalía—, pero (a) la imagen viral fue retocada con IA (Hive Moderation: más de 95 % de probabilidad de presencia de IA generativa, 87,8 % atribuido a 'gptimage2', más marca de agua del clasificador de OpenAI), aunque la oficina de prensa de la Policía sostiene que solo se le hicieron \"pequeñas mejoras\"; y (b) el hecho fue descontextualizado: el incendio del cerro San Marcos empezó dos días después, el 19-sep-2026, y no tiene relación con esa captura (no hay capturados por ese incendio). La Silla Vacía lo calificó como Engañoso el 22-sep-2026. Nota: la fuente no atribuye el incendio ni el hecho a El Niño, sequía o calor extremo; menciona sospechas de que las llamas fueron provocadas y una recompensa de la Gobernación de Boyacá. La fuente NO atribuye el hecho a El Niño, la sequía ni el calor extremo; se registra tal cual. Pendiente de verificar: Ni Colombiacheck ni La Silla Vacia atribuyen el incendio del cerro San Marcos a El Niño, la sequía o el calor extremo; no se lo atribuyo yo. Es un hecho de hace 13 días, se reporta porque el 23-sep hubo cambio de estado (recalificacion de Falso a Cuestionable y rectificacion pública).",
+ "fuente_nombre": "Colombiacheck (actualización/correccion); también La Silla Vacia - Detector de Mentiras",
+ "fuente_url": "https://colombiacheck.com/chequeos/actualizacion-la-captura-en-villa-de-leyva-si-ocurrio-por-un-incendio-pero-la-imagen-fue"
+}
