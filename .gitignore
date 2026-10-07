@@ -16,3 +16,4 @@ apic_city_cache.json
 
 # Copias de trabajo del tablero (solo se versiona board/index.html)
 board_*.html
+publicar-monitor.ps1
