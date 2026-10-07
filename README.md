@@ -10,8 +10,7 @@ El resultado de cada corrida es un tablero HTML que se republica en la misma URL
 más una base de datos de hallazgos normalizados.
 
 > **El tablero publicado:** https://claude.ai/artifact/KatWH67i8yqxcJkJMx5ezD
-> *(enlace de solo lectura; ver la nota sobre visibilidad más abajo antes de
-> hacer público este repositorio)*
+> *(enlace de solo lectura)*
 
 ---
 
@@ -158,7 +157,12 @@ confirmación oficial · 🏢 fuente gremial · ⚠️ sin datos verificables.
 
 ## Licencia
 
-**Sin definir todavía.** Hay que elegir una antes de abrir el repositorio a
-colaboradores externos. El código es de biblioteca estándar y no incorpora
-material de terceros; los **datos** provienen de fuentes públicas del Estado
-colombiano y conservan las condiciones de uso de cada entidad.
+**Pendiente de elegir.** Sin un archivo `LICENSE`, el código de un repositorio
+público sigue siendo «todos los derechos reservados» por defecto, lo que impide
+legalmente la colaboración que este repositorio busca. Para código de biblioteca
+estándar como este, MIT o Apache-2.0 son las opciones convencionales.
+
+El código no incorpora material de terceros. Los **datos** provienen de fuentes
+públicas del Estado colombiano (IDEAM, UNGRD, DANE, XM) y conservan las
+condiciones de uso de cada entidad; los textos de prensa citados pertenecen a sus
+medios y aquí solo se registran con atribución y enlace.
